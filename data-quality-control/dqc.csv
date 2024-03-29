@@ -2,18 +2,6 @@ diagnosis,table,column,row,value,repair,extended_diagnosis,file_path,data_type,n
 organization edmoid error,so,organization_edmoid,1,141,https://edmo.seadatanet.org/report/141,organization edmoid should be a list of URIs,/github/workspace/logsheets/filtered/sediment_observatory.csv,EMOBONList,False
 organization edmoid error,wo,organization_edmoid,1,141,https://edmo.seadatanet.org/report/141,organization edmoid should be a list of URIs,/github/workspace/logsheets/filtered/water_observatory.csv,EMOBONList,False
 source_mat_id error,ss,source_mat_id,1,EMOBON___,,source_mat_id should match ^EMOBON_HCMR-1_So___$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,37,EMOBON_HCMR-1_Wa_220304__3um_1,,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,38,EMOBON_HCMR-1_Wa_220304__3um_2,,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_3um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,39,EMOBON_HCMR-1_Wa_220304__3um_3,,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_3um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,40,EMOBON_HCMR-1_Wa_220304__3um_4,,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,41,EMOBON_HCMR-1_Wa_220304__0.2um_1,,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_0.2um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,42,EMOBON_HCMR-1_Wa_220304__0.2um_2,,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_0.2um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,43,EMOBON_HCMR-1_Wa_220304__0.2um_3,,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_0.2um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,44,EMOBON_HCMR-1_Wa_220304__0.2um_4,,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_0.2um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,45,EMOBON_HCMR-1_Wa_220304__3um_blank,,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_3um_blank$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,46,EMOBON_HCMR-1_Wa_220304__3um_blank,,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_3um_blank$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,47,EMOBON_HCMR-1_Wa_220304__0.2um_blank,,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_0.2um_blank$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,48,EMOBON_HCMR-1_Wa_220304__0.2um_blank,,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_0.2um_blank$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 membership violation,ss,comm_samp,1,,,"comm_samp must be in ['micro', 'meio', 'macro', 'blank']",/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,False
 datatype mismatch,so,loc_broad_ocean_mrgid,1,4280,http://marineregions.org/mrgid/4280,,/github/workspace/logsheets/filtered/sediment_observatory.csv,XSDAnyURI,False
 datatype mismatch,so,loc_loc_mrgid,1,3339,http://marineregions.org/mrgid/3339,,/github/workspace/logsheets/filtered/sediment_observatory.csv,XSDAnyURI,False

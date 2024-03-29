@@ -1,17 +1,5 @@
 Diagnosis,LogsheetType,LogsheetTab,Column,Row,Value,ExtendedDiagnosis,FilePath,DataType,Requirement
 source_mat_id error,sediment,sampling,source_mat_id,1,EMOBON___,source_mat_id should match ^EMOBON_HCMR-1_So___$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
-source_mat_id error,water,sampling,source_mat_id,37,EMOBON_HCMR-1_Wa_220304__3um_1,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
-source_mat_id error,water,sampling,source_mat_id,38,EMOBON_HCMR-1_Wa_220304__3um_2,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_3um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
-source_mat_id error,water,sampling,source_mat_id,39,EMOBON_HCMR-1_Wa_220304__3um_3,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_3um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
-source_mat_id error,water,sampling,source_mat_id,40,EMOBON_HCMR-1_Wa_220304__3um_4,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
-source_mat_id error,water,sampling,source_mat_id,41,EMOBON_HCMR-1_Wa_220304__0.2um_1,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_0.2um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
-source_mat_id error,water,sampling,source_mat_id,42,EMOBON_HCMR-1_Wa_220304__0.2um_2,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_0.2um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
-source_mat_id error,water,sampling,source_mat_id,43,EMOBON_HCMR-1_Wa_220304__0.2um_3,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_0.2um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
-source_mat_id error,water,sampling,source_mat_id,44,EMOBON_HCMR-1_Wa_220304__0.2um_4,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_0.2um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
-source_mat_id error,water,sampling,source_mat_id,45,EMOBON_HCMR-1_Wa_220304__3um_blank,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_3um_blank$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
-source_mat_id error,water,sampling,source_mat_id,46,EMOBON_HCMR-1_Wa_220304__3um_blank,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_3um_blank$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
-source_mat_id error,water,sampling,source_mat_id,47,EMOBON_HCMR-1_Wa_220304__0.2um_blank,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_0.2um_blank$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
-source_mat_id error,water,sampling,source_mat_id,48,EMOBON_HCMR-1_Wa_220304__0.2um_blank,source_mat_id should match ^EMOBON_HCMR-1_Wa_220304_0.2um_blank$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
 membership violation,sediment,sampling,comm_samp,1,<empty>,"comm_samp must be in ['micro', 'meio', 'macro', 'blank']",/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
 datatype mismatch,sediment,observatory,organization,1,"Institute of Marine Biology, Biotechnology and Aquaculture (IMBBC) - Hellenic Centre for Marine Research (HCMR)",\,/github/workspace/logsheets/filtered/sediment_observatory.csv,EMOBONList,mandatory
 missing value,sediment,sampling,ENA_accession_number_sample,1,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDAnyURI,mandatory
