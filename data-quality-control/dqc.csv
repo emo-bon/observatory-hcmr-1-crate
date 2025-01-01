@@ -42,6 +42,10 @@ datatype mismatch,wo,loc_loc_mrgid,1,3339,http://marineregions.org/mrgid/3339,,/
 datatype mismatch,wo,loc_regional_mrgid,1,3315,http://marineregions.org/mrgid/3315,,/github/workspace/logsheets/filtered/water_observatory.csv,XSDAnyURI,False
 datatype mismatch,wo,ENA_accession_number_project,1,PRJEB51655,https://www.ebi.ac.uk/ena/browser/view/PRJEB51655,,/github/workspace/logsheets/filtered/water_observatory.csv,XSDAnyURI,False
 datatype mismatch,wo,ENA_accession_number_umbrella,1,PRJEB51688,https://www.ebi.ac.uk/ena/browser/view/PRJEB51688,,/github/workspace/logsheets/filtered/water_observatory.csv,XSDAnyURI,False
+missing value,ws,ENA_accession_number_sample,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,False
+missing value,ws,ENA_accession_number_sample,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,False
+missing value,ws,ENA_accession_number_sample,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,False
+missing value,ws,ENA_accession_number_sample,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,False
 datatype mismatch,ws,arr_date_hq,1,2021-10-25 00:00:00,2021-10-25,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,arr_date_hq,2,2021-10-25 00:00:00,2021-10-25,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,arr_date_hq,5,2021-10-25 00:00:00,2021-10-25,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
@@ -56,6 +60,10 @@ datatype mismatch,ws,arr_date_hq,25,2022-12-12 00:00:00,2022-12-12,,/github/work
 datatype mismatch,ws,arr_date_hq,26,2022-12-12 00:00:00,2022-12-12,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,arr_date_hq,29,2022-12-12 00:00:00,2022-12-12,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,arr_date_hq,30,2022-12-12 00:00:00,2022-12-12,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,arr_date_hq,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,arr_date_hq,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,arr_date_hq,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,arr_date_hq,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,arr_date_seq,1,2021-11-24 00:00:00,2021-11-24,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,arr_date_seq,2,2021-11-24 00:00:00,2021-11-24,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,arr_date_seq,5,2021-11-24 00:00:00,2021-11-24,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
@@ -70,6 +78,10 @@ datatype mismatch,ws,arr_date_seq,25,2023-06-01 00:00:00,2023-06-01,,/github/wor
 datatype mismatch,ws,arr_date_seq,26,2023-06-01 00:00:00,2023-06-01,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,arr_date_seq,29,2023-06-01 00:00:00,2023-06-01,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,arr_date_seq,30,2023-06-01 00:00:00,2023-06-01,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,arr_date_seq,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,arr_date_seq,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,arr_date_seq,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,arr_date_seq,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,collection_date,1,2021-06-28 00:00:00,2021-06-28,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,collection_date,2,2021-06-28 00:00:00,2021-06-28,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,collection_date,3,2021-06-28 00:00:00,2021-06-28,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
@@ -106,6 +118,22 @@ datatype mismatch,ws,collection_date,33,2021-10-26 00:00:00,2021-10-26,,/github/
 datatype mismatch,ws,collection_date,34,2021-10-26 00:00:00,2021-10-26,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,collection_date,35,2021-10-26 00:00:00,2021-10-26,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,collection_date,36,2021-10-26 00:00:00,2021-10-26,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,collection_date,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,collection_date,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,collection_date,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,collection_date,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,depth,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,depth,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,depth,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,depth,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,env_material,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,EMOBONList,False
+missing value,ws,env_material,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,EMOBONList,False
+missing value,ws,env_material,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,EMOBONList,False
+missing value,ws,env_material,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,EMOBONList,False
+missing value,ws,investigation_type,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,investigation_type,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,investigation_type,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,investigation_type,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 datatype mismatch,ws,long_store,1,N,false,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
 datatype mismatch,ws,long_store,2,N,false,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
 datatype mismatch,ws,long_store,3,Y,true,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
@@ -142,6 +170,10 @@ datatype mismatch,ws,long_store,33,Y,true,,/github/workspace/logsheets/filtered/
 datatype mismatch,ws,long_store,34,Y,true,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
 datatype mismatch,ws,long_store,35,Y,true,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
 datatype mismatch,ws,long_store,36,Y,true,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
+missing value,ws,long_store,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
+missing value,ws,long_store,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
+missing value,ws,long_store,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
+missing value,ws,long_store,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
 datatype mismatch,ws,membr_cut,1,Y,true,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
 datatype mismatch,ws,membr_cut,2,Y,true,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
 datatype mismatch,ws,membr_cut,3,Y,true,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
@@ -178,6 +210,46 @@ datatype mismatch,ws,membr_cut,33,N,false,,/github/workspace/logsheets/filtered/
 datatype mismatch,ws,membr_cut,34,N,false,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
 datatype mismatch,ws,membr_cut,35,N,false,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
 datatype mismatch,ws,membr_cut,36,N,false,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
+missing value,ws,membr_cut,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
+missing value,ws,membr_cut,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
+missing value,ws,membr_cut,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
+missing value,ws,membr_cut,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
+missing value,ws,samp_collect_device,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_collect_device,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_collect_device,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_collect_device,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_description,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_description,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_description,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_description,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_mat_process,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_mat_process,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_mat_process,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_mat_process,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_mat_process_dev,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_mat_process_dev,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_mat_process_dev,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_mat_process_dev,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_store_loc,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_store_loc,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_store_loc,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_store_loc,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_store_temp,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_store_temp,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_store_temp,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_store_temp,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,samp_size_vol,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
+missing value,ws,samp_size_vol,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
+missing value,ws,samp_size_vol,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
+missing value,ws,samp_size_vol,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
+missing value,ws,sampl_person,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,sampl_person,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,sampl_person,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,sampl_person,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,sampling_event,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,sampling_event,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,sampling_event,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,sampling_event,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 datatype mismatch,ws,ship_date,1,2021-10-15 00:00:00,2021-10-15,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,ship_date,2,2021-10-15 00:00:00,2021-10-15,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,ship_date,5,2021-10-15 00:00:00,2021-10-15,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
@@ -192,6 +264,10 @@ datatype mismatch,ws,ship_date,25,2022-12-01 00:00:00,2022-12-01,,/github/worksp
 datatype mismatch,ws,ship_date,26,2022-12-01 00:00:00,2022-12-01,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,ship_date,29,2022-12-01 00:00:00,2022-12-01,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,ship_date,30,2022-12-01 00:00:00,2022-12-01,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+datatype mismatch,ws,ship_date,217,to ship,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+datatype mismatch,ws,ship_date,218,to ship,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+datatype mismatch,ws,ship_date,219,to ship,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+datatype mismatch,ws,ship_date,220,to ship,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,ship_date_seq,1,2021-11-24 00:00:00,2021-11-24,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,ship_date_seq,2,2021-11-24 00:00:00,2021-11-24,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,ship_date_seq,5,2021-11-24 00:00:00,2021-11-24,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
@@ -206,6 +282,26 @@ datatype mismatch,ws,ship_date_seq,25,2023-06-01 00:00:00,2023-06-01,,/github/wo
 datatype mismatch,ws,ship_date_seq,26,2023-06-01 00:00:00,2023-06-01,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,ship_date_seq,29,2023-06-01 00:00:00,2023-06-01,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,ship_date_seq,30,2023-06-01 00:00:00,2023-06-01,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,ship_date_seq,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,ship_date_seq,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,ship_date_seq,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,ship_date_seq,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,size_frac_low,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
+missing value,ws,size_frac_low,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
+missing value,ws,size_frac_low,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
+missing value,ws,size_frac_low,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
+missing value,ws,size_frac_up,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
+missing value,ws,size_frac_up,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
+missing value,ws,size_frac_up,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
+missing value,ws,size_frac_up,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
+missing value,ws,size_frac,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,size_frac,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,size_frac,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,size_frac,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,store_person,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,store_person,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,store_person,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,store_person,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 datatype mismatch,ws,store_person_orcid,1,0000-0003-4392-7159,https://orcid.org/0000-0003-4392-7159,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,True
 datatype mismatch,ws,store_person_orcid,2,0000-0003-4392-7159,https://orcid.org/0000-0003-4392-7159,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,True
 datatype mismatch,ws,store_person_orcid,3,0000-0003-4392-7159,https://orcid.org/0000-0003-4392-7159,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,True
@@ -242,6 +338,10 @@ datatype mismatch,ws,store_person_orcid,33,0000-0003-4392-7159,https://orcid.org
 datatype mismatch,ws,store_person_orcid,34,0000-0003-4392-7159,https://orcid.org/0000-0003-4392-7159,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,True
 datatype mismatch,ws,store_person_orcid,35,0000-0003-4392-7159,https://orcid.org/0000-0003-4392-7159,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,True
 datatype mismatch,ws,store_person_orcid,36,0000-0003-4392-7159,https://orcid.org/0000-0003-4392-7159,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,True
+missing value,ws,store_temp_hq,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
+missing value,ws,store_temp_hq,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
+missing value,ws,store_temp_hq,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
+missing value,ws,store_temp_hq,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
 datatype mismatch,ws,tax_id,1,1874687,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=1874687,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,False
 datatype mismatch,ws,tax_id,2,1874687,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=1874687,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,False
 datatype mismatch,ws,tax_id,3,1874687,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=1874687,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,False
@@ -278,6 +378,14 @@ datatype mismatch,ws,tax_id,33,256318,https://www.ncbi.nlm.nih.gov/taxonomy/brow
 datatype mismatch,ws,tax_id,34,256318,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=256318,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,False
 datatype mismatch,ws,tax_id,35,256318,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=256318,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,False
 datatype mismatch,ws,tax_id,36,256318,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=256318,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,False
+missing value,ws,tax_id,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,False
+missing value,ws,tax_id,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,False
+missing value,ws,tax_id,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,False
+missing value,ws,tax_id,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,False
+missing value,ws,time_fi,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,time_fi,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,time_fi,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,time_fi,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 datatype mismatch,ws,failure,1,F,false,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
 datatype mismatch,ws,failure,2,T,true,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
 datatype mismatch,ws,failure,5,F,false,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
@@ -287,6 +395,18 @@ datatype mismatch,ws,failure,14,T,true,,/github/workspace/logsheets/filtered/wat
 datatype mismatch,ws,failure,17,T,true,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
 datatype mismatch,ws,failure,18,T,true,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
 datatype mismatch,ws,failure,21,F,false,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
+missing value,ws,failure,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
+missing value,ws,failure,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
+missing value,ws,failure,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
+missing value,ws,failure,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
+missing value,ws,scientific_name,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,scientific_name,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,scientific_name,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,scientific_name,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,source_mat_id,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,source_mat_id,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,source_mat_id,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,source_mat_id,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 datatype mismatch,ws,samp_store_date,1,2021-06-28 00:00:00,2021-06-28,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,samp_store_date,2,2021-06-28 00:00:00,2021-06-28,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,samp_store_date,3,2021-06-28 00:00:00,2021-06-28,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
@@ -323,3 +443,15 @@ datatype mismatch,ws,samp_store_date,33,2021-10-26 00:00:00,2021-10-26,,/github/
 datatype mismatch,ws,samp_store_date,34,2021-10-26 00:00:00,2021-10-26,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,samp_store_date,35,2021-10-26 00:00:00,2021-10-26,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,samp_store_date,36,2021-10-26 00:00:00,2021-10-26,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,samp_store_date,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,samp_store_date,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,samp_store_date,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,samp_store_date,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
+missing value,ws,replicate,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,replicate,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,replicate,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,replicate,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,failure_comment,217,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,failure_comment,218,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,failure_comment,219,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+missing value,ws,failure_comment,220,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
