@@ -58,7 +58,6 @@
     emobon-sampling:investigationType 'metagenome'^^xsd:string ;
     emobon-sampling:taxonomicID 'https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=256318'^^xsd:anyURI ;
     emobon-sampling:taxonomicName 'metagenome'^^xsd:string ;
-    emobon-sampling:bioCommunity ''^^xsd:string ;
 
     
     prov:wasAssociatedWith [
