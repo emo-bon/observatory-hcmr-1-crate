@@ -26,7 +26,7 @@
         schema:name 'Vaso Terzoglou'^^xsd:string ;
     ] ;
     
-    sosa:resultTime '2021-10-26'^^xsd:date ;     
+    sosa:resultTime '2021-10-26'^^xsd:date ; 
     sosa:madeBySampler 'Jerrycan'^^xsd:string ;
     sosa:usedProcedure [
         a sosa:Procedure ;
