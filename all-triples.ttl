@@ -8971,7 +8971,7 @@
 <file:///github/workspace/> a schema1:Dataset ;
     dct:conformsTo <https://data.emobon.embrc.eu/observatory-profile/latest> ;
     schema1:contactPoint <https://ror.org/0038zss60> ;
-    schema1:datePublished "2025-07-01T02:26:47+00:00" ;
+    schema1:datePublished "2025-10-16T09:16:40+00:00" ;
     schema1:description "This RO-Crate/GitHub repository contains the EMO BON sampling event logsheets from the observatory HCMR" ;
     schema1:hasPart <file:///github/workspace/README.md>,
         <file:///github/workspace/all-triples.ttl>,
@@ -9707,6 +9707,11 @@
         "coastal sea water [ENVO:00002150]"^^xsd:string,
         "metagenome"^^xsd:string,
         "seawater [ENVO:00002149]"^^xsd:string .
+
+<http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/observatory/5669> a schema:Organization ;
+    schema:email "5669"^^xsd:anyURI ;
+    schema:name """European Marine Biological Resource Centre
+definition: the organization responsible for the curation, integrity, publication and use of generated data"""^^xsd:string .
 
 <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sample/EMOBON_HCMR-1_Wa_10> a prov:Entity,
         sosa:Sample ;
@@ -11534,12 +11539,9 @@
     schema:additionalType core_vocab:blankSample,
         "http://vocab.nerc.ac.uk/collection/S29/current/PE001525/"^^xsd:anyURI .
 
-<http://marineregions.org/mrgid/http://marineregions.org/mrgid/3315> mr:contains <http://marineregions.org/mrgid/http://marineregions.org/mrgid/3339> ;
-    mr:isPartOf <http://marineregions.org/mrgid/http://marineregions.org/mrgid/4280> .
+<http://marineregions.org/mrgid/3339> mr:isPartOf <http://marineregions.org/mrgid/3315> .
 
-<http://marineregions.org/mrgid/http://marineregions.org/mrgid/3339> mr:isPartOf <http://marineregions.org/mrgid/http://marineregions.org/mrgid/3315> .
-
-<http://marineregions.org/mrgid/http://marineregions.org/mrgid/4280> mr:contains <http://marineregions.org/mrgid/> .
+<http://marineregions.org/mrgid/4280> mr:contains <http://marineregions.org/mrgid/3315> .
 
 <https://data.emobon.embrc.eu/observatory-profile/latest> a schema1:CreativeWork ;
     schema1:name "<name>" .
@@ -19491,6 +19493,9 @@
         "metagenome"^^xsd:string,
         "seawater [ENVO:00002149]"^^xsd:string .
 
+<http://marineregions.org/mrgid/3315> mr:contains <http://marineregions.org/mrgid/3339> ;
+    mr:isPartOf <http://marineregions.org/mrgid/4280> .
+
 <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/measured/EMOBON_HCMR-1_Wa_230217_0.2um_1> a prov:Entity,
         sosa:Sample ;
     sosa:hasResult <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling/EMOBON_HCMR-1_Wa_230217_0.2um_1> ;
@@ -24197,6 +24202,7 @@
             emobon-core:enaProjAccNum "https://www.ebi.ac.uk/ena/browser/view/PRJEB51688"^^xsd:anyURI ;
             schema:description "The EMO BON project"^^xsd:string ;
             schema:name "EMOBON"^^xsd:string ] ;
+    dct:rightsHolder <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/observatory/5669> ;
     emobon-core:broadBiome "marine%20biome%20%5BENVO:00000447%5D"^^xsd:anyURI,
         "marine%20pelagic%20biome%20%5BENVO:01000023%5D"^^xsd:anyURI,
         "mediterranean%20sea%20biome%5BENVO_01000047%5D"^^xsd:anyURI ;
@@ -24239,7 +24245,7 @@ Since UBPC is an experimental platform research activities are taking place on t
 <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_210628> a prov:Activity,
         sosa:Sampling ;
     dct:type "sampling"^^xsd:string ;
-    prov:startedAtTime "2021-06-28"^^xsd:date ;
+    prov:endedAtTime "2021-06-28"^^xsd:date ;
     prov:wasAssociatedWith [ a prov:Person,
                 schema:Person ;
             schema:name "Maria Maidanou"^^xsd:string ] ;
@@ -24268,7 +24274,7 @@ Since UBPC is an experimental platform research activities are taking place on t
 <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_210917> a prov:Activity,
         sosa:Sampling ;
     dct:type "sampling"^^xsd:string ;
-    prov:startedAtTime "2021-09-17"^^xsd:date ;
+    prov:endedAtTime "2021-09-17"^^xsd:date ;
     prov:wasAssociatedWith [ a prov:Person,
                 schema:Person ;
             schema:name "Apostolos Kristallas"^^xsd:string ] ;
@@ -24297,7 +24303,7 @@ Since UBPC is an experimental platform research activities are taking place on t
 <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_211026> a prov:Activity,
         sosa:Sampling ;
     dct:type "sampling"^^xsd:string ;
-    prov:startedAtTime "2021-10-26"^^xsd:date ;
+    prov:endedAtTime "2021-10-26"^^xsd:date ;
     prov:wasAssociatedWith [ a prov:Person,
                 schema:Person ;
             schema:name "Vaso Terzoglou"^^xsd:string ] ;
@@ -24326,7 +24332,7 @@ Since UBPC is an experimental platform research activities are taking place on t
 <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220304> a prov:Activity,
         sosa:Sampling ;
     dct:type "sampling"^^xsd:string ;
-    prov:startedAtTime "2022-03-04"^^xsd:date ;
+    prov:endedAtTime "2022-03-04"^^xsd:date ;
     prov:wasAssociatedWith [ a prov:Person,
                 schema:Person ;
             schema:name "Apostolos Kristallas"^^xsd:string ] ;
@@ -24355,7 +24361,7 @@ Since UBPC is an experimental platform research activities are taking place on t
 <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220505> a prov:Activity,
         sosa:Sampling ;
     dct:type "sampling"^^xsd:string ;
-    prov:startedAtTime "2022-05-05"^^xsd:date ;
+    prov:endedAtTime "2022-05-05"^^xsd:date ;
     prov:wasAssociatedWith [ a prov:Person,
                 schema:Person ;
             schema:name "Vaso Terzoglou"^^xsd:string ] ;
@@ -24384,7 +24390,7 @@ Since UBPC is an experimental platform research activities are taking place on t
 <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220623> a prov:Activity,
         sosa:Sampling ;
     dct:type "sampling"^^xsd:string ;
-    prov:startedAtTime "2022-06-23"^^xsd:date ;
+    prov:endedAtTime "2022-06-23"^^xsd:date ;
     prov:wasAssociatedWith [ a prov:Person,
                 schema:Person ;
             schema:name "Apostolos Kristallas"^^xsd:string ] ;
@@ -24413,7 +24419,7 @@ Since UBPC is an experimental platform research activities are taking place on t
 <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220915> a prov:Activity,
         sosa:Sampling ;
     dct:type "sampling"^^xsd:string ;
-    prov:startedAtTime "2022-09-15"^^xsd:date ;
+    prov:endedAtTime "2022-09-15"^^xsd:date ;
     prov:wasAssociatedWith [ a prov:Person,
                 schema:Person ;
             schema:name "Vaso Terzoglou"^^xsd:string ] ;
@@ -24442,7 +24448,7 @@ Since UBPC is an experimental platform research activities are taking place on t
 <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_221027> a prov:Activity,
         sosa:Sampling ;
     dct:type "sampling"^^xsd:string ;
-    prov:startedAtTime "2022-10-27"^^xsd:date ;
+    prov:endedAtTime "2022-10-27"^^xsd:date ;
     prov:wasAssociatedWith [ a prov:Person,
                 schema:Person ;
             schema:name "Apostolos Kristallas"^^xsd:string ] ;
