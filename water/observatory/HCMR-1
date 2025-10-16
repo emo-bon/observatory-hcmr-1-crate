@@ -15,7 +15,6 @@
 @prefix emobon-sampling: <https://data.emobon.embrc.eu/ns/sampling#> .
 @prefix core_vocab: <https://data.emobon.embrc.eu/ns/core_vocab#> .
 @prefix csvw: <http://www.w3.org/ns/csvw#>.
-
 @base <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/observatory/HCMR-1> . 
 
 <> 
@@ -30,6 +29,7 @@
         schema:description "The EMO BON project"^^xsd:string ;
         emobon-core:enaProjAccNum 'https://www.ebi.ac.uk/ena/browser/view/PRJEB51688'^^xsd:anyURI ;
     ] ;
+    dct:rightsHolder <5669> ;
     emobon-core:siteInfo '''OSD100 for OSD campaign is participating annually
 Sea bottom: mainly coarse sand with macroalgal cover (Caulerpa prolifera) seagrass patches and escarpment (Posidonia oceanica) occasional small reefs. 
 Temperature data available from Seafloor Observatory at the maximum depth (sampling rate 5 minutes) and by temperature loggers deployed along the water column (18 16 14 12 10 8 m depth at hourly time intervals). 
@@ -60,6 +60,7 @@ Since UBPC is an experimental platform research activities are taking place on t
             schema:name 'Melanthia Stavroulaki'^^xsd:string ;
             schema:email 'mstavroulaki@hcmr.gr'^^xsd:string ;
             schema:identifier 'https://orcid.org/0000-0003-4392-7159'^^xsd:anyURI ;
+             
         ]
         ] ; 
     ] ;
@@ -74,15 +75,22 @@ Since UBPC is an experimental platform research activities are taking place on t
 .
 
 
-<http://marineregions.org/mrgid/http://marineregions.org/mrgid/4280>
-    mr:contains <http://marineregions.org/mrgid/> ;
+<http://marineregions.org/mrgid/4280>
+    mr:contains <http://marineregions.org/mrgid/3315> ;
 .
 
-<http://marineregions.org/mrgid/http://marineregions.org/mrgid/3315>
-    mr:contains <http://marineregions.org/mrgid/http://marineregions.org/mrgid/3339> ;
-    mr:isPartOf <http://marineregions.org/mrgid/http://marineregions.org/mrgid/4280> ; 
+<http://marineregions.org/mrgid/3315>
+    mr:contains <http://marineregions.org/mrgid/3339> ;
+    mr:isPartOf <http://marineregions.org/mrgid/4280> ; 
 .
 
-<http://marineregions.org/mrgid/http://marineregions.org/mrgid/3339>
-    mr:isPartOf <http://marineregions.org/mrgid/http://marineregions.org/mrgid/3315> ;
+<http://marineregions.org/mrgid/3339>
+    mr:isPartOf <http://marineregions.org/mrgid/3315> ;
+.
+
+<5669> 
+    a schema:Organization  ;
+    schema:name '''European Marine Biological Resource Centre
+definition: the organization responsible for the curation, integrity, publication and use of generated data'''^^xsd:string ; 
+    schema:email '5669'^^xsd:anyURI ; 
 .

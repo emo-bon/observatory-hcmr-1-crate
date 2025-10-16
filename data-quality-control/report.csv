@@ -95,6 +95,294 @@ source_mat_id error,water,sampling,source_mat_id,93,EMOBON_HCMR-1_Wa_93,source_m
 source_mat_id error,water,sampling,source_mat_id,94,EMOBON_HCMR-1_Wa_94,source_mat_id should match ^EMOBON_HCMR-1_Wa_221027_200um_blank_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
 source_mat_id error,water,sampling,source_mat_id,95,EMOBON_HCMR-1_Wa_95,source_mat_id should match ^EMOBON_HCMR-1_Wa_221027_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
 source_mat_id error,water,sampling,source_mat_id,96,EMOBON_HCMR-1_Wa_96,source_mat_id should match ^EMOBON_HCMR-1_Wa_221027_3um_blank_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,1,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,2,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,3,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,4,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,5,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,6,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,7,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,8,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,9,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,10,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,11,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,12,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,13,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,14,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,15,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,16,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,17,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,18,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,19,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,20,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,21,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,22,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,23,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,24,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,25,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,26,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,27,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,28,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,29,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,30,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,31,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,32,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,33,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,34,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,35,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,36,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,37,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,38,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,39,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,40,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,41,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,42,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,43,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,44,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,45,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,46,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,47,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,48,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,49,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,50,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,51,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,52,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,53,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,54,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,55,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,56,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,57,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,58,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,59,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,60,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,61,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,62,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,63,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,64,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,65,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,66,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,67,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,68,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,69,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,70,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,71,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,72,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,73,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,74,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,75,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,76,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,77,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,78,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,79,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,80,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,81,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,82,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,83,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,84,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,85,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,86,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,87,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,88,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,89,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,90,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,91,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,92,marine plankton metagenome,"scientific_name should be marine plankton metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,93,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,94,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,95,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+scientific name error,water,sampling,scientific_name,96,metagenome,"scientific_name should be metagenome)
+
+   ",/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
 missing value,water,sampling,ENA_accession_number_sample,39,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
 missing value,water,sampling,ENA_accession_number_sample,40,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
 missing value,water,sampling,ENA_accession_number_sample,41,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,mandatory
