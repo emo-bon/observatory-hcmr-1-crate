@@ -4182,7 +4182,7 @@
 <file:///github/workspace/> a schema1:Dataset ;
     dct:conformsTo <https://data.emobon.embrc.eu/observatory-profile/latest> ;
     schema1:contactPoint <https://ror.org/0038zss60> ;
-    schema1:datePublished "2025-10-16T09:30:46+00:00" ;
+    schema1:datePublished "2025-10-16T09:47:45+00:00" ;
     schema1:description "This RO-Crate/GitHub repository contains the EMO BON sampling event logsheets from the observatory HCMR" ;
     schema1:hasPart <file:///github/workspace/README.md>,
         <file:///github/workspace/all-triples.ttl>,
@@ -5265,10 +5265,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220505> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "3-200"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "3.5"^^xsd:string ;
@@ -5393,10 +5391,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220505> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "0.2-3"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "3.5"^^xsd:string ;
@@ -5521,10 +5517,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220623> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "3-200"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "3.5"^^xsd:string ;
@@ -5649,10 +5643,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220623> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "0.2-3"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "3.5"^^xsd:string ;
@@ -7599,10 +7591,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220304> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "0.2-3"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "2.5"^^xsd:string ;
@@ -7727,10 +7717,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220304> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "0.2-3"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "2.5"^^xsd:string ;
@@ -7802,10 +7790,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220304> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "3-200"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "1.5"^^xsd:string ;
@@ -7877,10 +7863,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220304> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "3-200"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "1.5"^^xsd:string ;
@@ -8058,10 +8042,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220505> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "3-200"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "1.5"^^xsd:string ;
@@ -8207,10 +8189,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220505> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "3-200"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "1.5"^^xsd:string ;
@@ -8388,10 +8368,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220505> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "3-200"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "1.5"^^xsd:string ;
@@ -8463,10 +8441,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220505> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "3-200"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "1.5"^^xsd:string ;
@@ -8718,10 +8694,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220623> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "3-200"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "1.5"^^xsd:string ;
@@ -8793,10 +8767,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220623> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "3-200"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "1.5"^^xsd:string ;
@@ -8974,10 +8946,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220623> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "3-200"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "1.5"^^xsd:string ;
@@ -9049,10 +9019,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220623> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "3-200"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "1.5"^^xsd:string ;
@@ -9283,10 +9251,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220915> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "0.2-3"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "3.5"^^xsd:string ;
@@ -9358,10 +9324,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220915> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "0.2-3"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "3.5"^^xsd:string ;
@@ -9539,10 +9503,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220915> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "3-200"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "3.5"^^xsd:string ;
@@ -9614,10 +9576,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_220915> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "3-200"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "3.5"^^xsd:string ;
@@ -9848,10 +9808,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_221027> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "0.2-3"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "3.5"^^xsd:string ;
@@ -9923,10 +9881,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_221027> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "0.2-3"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "3.5"^^xsd:string ;
@@ -10104,10 +10060,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_221027> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "3-200"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "3.5"^^xsd:string ;
@@ -10179,10 +10133,8 @@ definition: the organization responsible for the curation, integrity, publicatio
                                     qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/UPAA/> ] ] ] ] ;
     sosa:isResultOf <http://data.emobon.embrc.eu/observatory-hcmr-1-crate/water/sampling-event/HCMR-1_Wa_221027> ;
     emobon-sampling:bioCommunity ""^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ""^^xsd:anyURI ;
     emobon-sampling:environmentMaterial "coastal%20sea%20water%20%5BENVO:00002150%5D"^^xsd:anyURI,
         "seawater%20%5BENVO:00002149%5D"^^xsd:anyURI ;
-    emobon-sampling:failureComment ""^^xsd:string ;
     emobon-sampling:filterSizeRange "3-200"^^xsd:string ;
     emobon-sampling:filtrationTime [ a qudt:QuantityValue ;
             qudt:numericValue "3.5"^^xsd:string ;

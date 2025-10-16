@@ -26,7 +26,7 @@
         schema:name 'Apostolos Kristallas'^^xsd:string ;
     ] ;
     
-    sosa:resultTime '2021-09-17'^^xsd:date ;     
+    sosa:resultTime '2021-09-17'^^xsd:date ; 
     sosa:madeBySampler 'Jerrycan'^^xsd:string ;
     sosa:usedProcedure [
         a sosa:Procedure ;

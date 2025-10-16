@@ -25,12 +25,10 @@
     emobon-sampling:origEmobonId 'EMO BON HCMR-1 Wa 220915 3um_2'^^xsd:string ; 
     
     dct:description 'EMOBON metagenome water sample from station HCMR-1 collected on 2022-09-15 size fraction 3-200um'^^xsd:string ;
-    emobon-sampling:enaSampleAccNum ''^^xsd:anyURI ;
     emobon-sampling:sampleReplicate '2'^^xsd:string ;
     schema:additionalType "http://vocab.nerc.ac.uk/collection/S29/current/PE001525/"^^xsd:anyURI ; 
     schema:additionalType core_vocab:fieldSample ;
     emobon-sampling:longStorage 'false'^^xsd:boolean ;
-    emobon-sampling:failureComment ''^^xsd:string ;
     
     emobon-sampling:hasSampleSize [
         a qudt:QuantityValue ; 
